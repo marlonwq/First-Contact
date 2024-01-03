@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Márlon\\Desktop\\PrimeiroContatoComC#\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Márlon\\Desktop\\First Contact\\HELLOWORLD\\C#\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Márlon\\Desktop\\PrimeiroContatoComC#\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Márlon\\Desktop\\First Contact\\HELLOWORLD\\C#\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Márlon\\Desktop\\PrimeiroContatoComC#\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Márlon\\Desktop\\First Contact\\HELLOWORLD\\C#\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Márlon\\Desktop\\PrimeiroContatoComC#\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Márlon\\Desktop\\First Contact\\HELLOWORLD\\C#\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Márlon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Márlon\\Desktop\\PrimeiroContatoComC#\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Márlon\\Desktop\\First Contact\\HELLOWORLD\\C#\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Márlon\\AppData\\Roaming\\NuGet\\NuGet.Config"
